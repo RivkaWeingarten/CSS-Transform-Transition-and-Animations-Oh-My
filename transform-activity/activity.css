@@ -1,3 +1,10 @@
-main {
-
+.wrapper {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style:italic;
+transform: rotate(-5deg);
 }
+.info{
+    transform:rotate(-10deg);
+    
+}
+
